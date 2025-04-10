@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+torchaudio
+transformers
+datasets
+onnx
+openvino
+timm
+scikit-learn
+matplotlib
+opencv-python
+captum
+tqdm
+Pillow
